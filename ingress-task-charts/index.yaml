@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ingress-task-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-14T17:42:59.965710269+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0935ea3cf49caf98d5c45f39748123a4ddeb33636e1accc05bee6f4796e42d69
+    name: ingress-task-helm-chart
+    type: application
+    urls:
+    - https://github.com/konbusalov/konbusalov-helm-repo/ingress-task-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-14T17:42:59.965313432+03:00"
