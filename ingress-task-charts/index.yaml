@@ -9,6 +9,6 @@ entries:
     name: ingress-task-helm-chart
     type: application
     urls:
-    - https://github.com/konbusalov/konbusalov-helm-repo/ingress-task-helm-chart-0.1.0.tgz
+    - https://github.com/konbusalov/konbusalov-helm-repo
     version: 0.1.0
 generated: "2025-10-14T17:42:59.965313432+03:00"
